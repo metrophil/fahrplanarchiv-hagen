@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+HST,Hagener Straßenbahn AG,https://www.hst-hagen.de,Europe/Berlin,de
+IK,Iserlohner Kreisbahn AG,https://www.mvg-online.de,Europe/Berlin,de
+EN,Straßenbahngesellschaft Ennepe,https://ver-kehr.de,Europe/Berlin,de
