@@ -1,0 +1,22 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+TRAM_2,HST,2,Haspe Schützenhof - Hohenlimburg,0
+TRAM_3,HST,3,Emst - Gevelsberg,0
+TRAM_4,HST,4,Selbecke - Herdecke,0
+TRAM_5,HST,5,Ambrock - Vorhalle,0
+TRAM_7,HST,7,Markt - Kabel,0
+TRAM_8,HST,8,Franklinstraße - Gneisenaustraße,0
+TRAM_9,HST,9,Kampstraße - Nordstraße,0
+TRAM_11,HST,11,Breckerfeld - Hagen Hbf,0
+TRAM_IK,IK,IK,Hohenlimburg - Hemer,0
+TRAM_EN,EN,EN,Voerde - Haßlinghausen,0
+BUS_12,HST,12,Emst - Kipperstraße,3
+BUS_14,HST,14,Boelerheide - Fley,3
+BUS_15A,HST,15A,Sparkasse - Berchum,3
+BUS_15B,HST,15B,Garenfeld - Sparkasse,3
+BUS_16,HST,16,Vorhalle - Bommern Bf,3
+BUS_17,HST,17,Herdecke - Wetter,3
+BUS_18,HST,18,Hagen Hbf - Erdbrügge,3
+BUS_19,HST,19,Hagen Hbf - Rummenohl,3
+BUS_20,HST,20,Hagen Hbf - Hohensyburg,3
+BUS_21,HST,21,Hagen Hbf - Wetter Demag,3
+BUS_22,HST,22,Vorhalle - Kabel,3
